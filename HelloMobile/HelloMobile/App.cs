@@ -21,7 +21,7 @@ namespace HelloMobile
                     Children = {
                         new Label {
                             HorizontalTextAlignment = TextAlignment.Center,
-                            Text = "Hello .Net Mobile Class"
+                            Text = "Hello .Net mobile Class"
                         }
                     }
                 }
